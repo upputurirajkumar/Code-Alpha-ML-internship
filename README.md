@@ -21,4 +21,4 @@ This repository showcases the work I completed during my machine learning intern
 - **Data Preprocessing**: Data cleansing, normalization, and transformation to prepare datasets for analysis.
 - **Model Development**: Application of machine learning techniques such as SVM, Random Forest, and neural networks.
 - **Performance Evaluation**: Use of metrics such as accuracy, precision, recall, and F1 score to assess model efficacy.
-- **Visualization**: Creation of insightful plots and charts to represent data and results clearly.
+- **Visualization**: Creation of insightful plots and charts to represent data and results clearly .
